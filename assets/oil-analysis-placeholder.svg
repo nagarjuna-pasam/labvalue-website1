@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b6fa4"/><stop offset=".5" stop-color="#5b2a86"/><stop offset="1" stop-color="#d7268e"/></linearGradient></defs>
+<rect width="900" height="620" fill="#f5f7fb"/><rect x="165" y="120" width="570" height="330" rx="30" fill="#fff" stroke="#d9deea" stroke-width="8"/>
+<rect x="235" y="185" width="220" height="175" rx="18" fill="url(#g)" opacity=".15"/><circle cx="345" cy="272" r="68" fill="none" stroke="url(#g)" stroke-width="14"/><path d="M345 225c35 42 44 57 44 82a44 44 0 1 1-88 0c0-25 9-40 44-82z" fill="url(#g)" opacity=".85"/>
+<rect x="510" y="180" width="150" height="110" rx="12" fill="#24223a"/><rect x="530" y="200" width="110" height="70" rx="5" fill="#d9f2ff"/><rect x="530" y="315" width="110" height="45" rx="8" fill="#eceff5"/>
+<text x="450" y="515" text-anchor="middle" font-family="Arial" font-size="42" font-weight="700" fill="#24223a">Oil Analysis &amp; Condition Monitoring</text><text x="450" y="560" text-anchor="middle" font-family="Arial" font-size="24" fill="#5e6472">Placeholder image — replace with supplied product photo</text>
+</svg>
